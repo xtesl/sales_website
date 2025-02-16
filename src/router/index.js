@@ -5,7 +5,7 @@ import Courses from "../components/course/CourseListing.vue"
 
 // Define routes
 const routes = [
-  { path: '/home', name: 'Home', component: Home },
+  { path: '/', name: 'Home', component: Home },
   { path: '/courses', name: 'courses', component: Courses },
 ];
 
