@@ -15,14 +15,14 @@
             <!-- Course Preview Image -->
             <div class="w-full lg:w-2/5">
               <img 
-                src="/images/graphic_design_flyer.jpg" 
+                src="/images/graphic_design_new_flyer.jpg" 
                 alt="Course Preview"
                 class="w-full h-auto rounded-lg shadow"
               />
               <div class="mt-4 flex flex-col sm:flex-row items-center justify-between gap-4">
                 <div class="flex items-center space-x-2">
-                  <span class="text-2xl sm:text-3xl font-bold text-indigo-600">GHS102.00</span>
-                  <span class="text-base sm:text-lg text-gray-500 line-through">GHS250.00</span>
+                  <span class="text-2xl sm:text-3xl font-bold text-indigo-600">GHS100.00</span>
+                  <span class="text-base sm:text-lg text-gray-500 line-through">GHS200.00</span>
                 </div>
                 <button class="w-full sm:w-auto bg-indigo-600 text-white px-6 py-2 rounded-lg font-semibold hover:bg-indigo-700 transition-colors">
                   Enroll Now
@@ -53,30 +53,14 @@
                 your step-by-step guide to mastering canva and designing flyers that sell, inspire and impress.
               </p>
               <div class="flex flex-col sm:flex-row items-start sm:items-center gap-4 sm:gap-4 mb-6">
-                <div class="flex items-center">
-                  <span class="text-yellow-400 mr-1">⭐</span>
-                  <span class="font-semibold">4.8</span>
-                  <span class="text-gray-500 ml-1">(2,547 reviews)</span>
-                </div>
-                <div class="hidden sm:block text-gray-500">|</div>
-                <div class="flex items-center">
-                  <span class="text-gray-500 mr-1">👥</span>
-                  <span>12,384 students enrolled</span>
-                </div>
+                
+                <div class="hidden sm:block text-gray-500"></div>
+                
               </div>
               <div class="flex flex-col sm:flex-row gap-4 sm:gap-4">
-                <div class="flex items-center">
-                  <span class="text-gray-500 mr-2">🎓</span>
-                  <span>42 hours of content</span>
-                </div>
-                <div class="flex items-center">
-                  <span class="text-gray-500 mr-2">🎯</span>
-                  <span>123 lessons</span>
-                </div>
-                <div class="flex items-center">
-                  <span class="text-gray-500 mr-2">🔄</span>
-                  <span>Lifetime access</span>
-                </div>
+               
+              
+
               </div>
             </div>
           </div>
@@ -163,8 +147,8 @@
           <p class="text-gray-600 text-sm sm:text-base mb-6">Join thousands of successful graduates and start your journey today.</p>
           <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
             <div class="text-center sm:text-right">
-              <div class="text-xs sm:text-sm text-gray-500 line-through">Original Price: GHS250.00</div>
-              <div class="text-xl sm:text-2xl font-bold text-indigo-600">Today's Price: GHS102.00</div>
+              <div class="text-xs sm:text-sm text-gray-500 line-through">Original Price: GHS200.00</div>
+              <div class="text-xl sm:text-2xl font-bold text-indigo-600">Today's Price: GHS100.00</div>
             </div>
             <button class="w-full sm:w-auto bg-indigo-600 text-white px-6 py-3 rounded-lg font-semibold text-base sm:text-lg hover:bg-indigo-700 transition-colors">
               Enroll Now
