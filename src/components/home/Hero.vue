@@ -30,10 +30,10 @@
       <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-24">
         <div class="text-center">
           <h1 class="text-4xl sm:text-5xl md:text-6xl font-extrabold text-white mb-6">
-            Transform Your Career with Expert-Led Courses
+            Do You Want To Get More Than GHS1,000 As a Side Hustle In Addition To Your Salary?
           </h1>
           <p class="text-xl sm:text-2xl text-indigo-100 max-w-3xl mx-auto mb-8">
-            Join thousands of successful students who have accelerated their careers through our professional training programs.
+            Join hundreds of successful students who have accelerated their careers through our professional training programs.
           </p>
           <div class="flex justify-center space-x-4">
             <button 
